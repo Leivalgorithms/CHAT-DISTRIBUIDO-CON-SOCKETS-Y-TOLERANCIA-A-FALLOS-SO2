@@ -59,3 +59,54 @@ El proyecto contempla las siguientes características:
 | Contenerización | Docker y Docker Compose |
 | Control de versiones | Git / GitHub |
 | Medición de métricas | Scripts Python con `time` y `psutil` |
+
+---
+ 
+## 7. Plan de Trabajo
+ 
+| Semana | Fase | Actividades | Entregable |
+|---|---|---|---|
+| 12 | Planificación | Definir arquitectura. Configurar entorno (Python, Docker). Crear repositorio con estructura inicial. | Repo GitHub + diagrama de arquitectura |
+| 13 | Revisión Bibliográfica | Investigar literatura sobre sockets TCP, concurrencia y tolerancia a fallos. Elaborar marco teórico. | Marco teórico |
+| 14 | Implementación y Pruebas | Implementar servidor TCP multihilo y cliente. Agregar tolerancia a fallos. Pruebas y métricas. | Código funcional + resultados |
+| 15 | Cierre y Entrega | Redactar informe final. Preparar presentación. Publicar Docker Compose y README. Exposición. | Informe + presentación + demo |
+ 
+---
+ 
+## 8. Metodología de Investigación
+ 
+### Enfoque Iterativo-Incremental
+ 
+El desarrollo se divide en incrementos funcionales: servidor básico de un cliente → múltiples clientes concurrentes → mecanismos de tolerancia a fallos. Esto permite validar cada componente de forma aislada antes de integrarlo al sistema completo.
+ 
+### Método Experimental
+ 
+Para evaluar el rendimiento se ejecutarán experimentos controlados con distintas cargas de clientes simultáneos. Las variables medidas serán:
+ 
+- Latencia promedio de entrega de mensajes (ms).
+- Número máximo de clientes concurrentes sin degradación del servicio.
+- Tiempo de detección y recuperación ante desconexiones inesperadas (ms).
+- Uso de CPU y memoria del proceso servidor bajo carga.
+Cada experimento se repetirá al menos 5 veces para obtener promedios estadísticamente representativos.
+ 
+### Revisión Bibliográfica
+ 
+Se consultarán las siguientes fuentes:
+ 
+- Stevens, W. R. & Rago, S. A. – *Unix Network Programming* (Vol. 1).
+- Tanenbaum, A. S. & Van Steen, M. – *Distributed Systems: Principles and Paradigms*.
+- Documentación oficial de Python 3 – módulos `socket` y `threading` (docs.python.org).
+- Documentación oficial de Docker y Docker Compose (docs.docker.com).
+- Repositorios de referencia en GitHub sobre implementaciones de chat TCP en Python.
+---
+ 
+## 9. Identificación de Riesgos
+ 
+| Riesgo | Probabilidad | Mitigación |
+|---|---|---|
+| Problemas de concurrencia (race conditions) | Media | Uso de locks y diseño cuidadoso de secciones críticas |
+| Complejidad en tolerancia a fallos | Media | Implementar primero funcionalidad básica y agregar tolerancia como incremento |
+| Configuración de Docker en Windows | Baja | Usar WSL2 o desarrollar directamente en Linux |
+| Atraso en cronograma | Baja | Seguir el plan incremental; las características opcionales son prescindibles |
+
+
