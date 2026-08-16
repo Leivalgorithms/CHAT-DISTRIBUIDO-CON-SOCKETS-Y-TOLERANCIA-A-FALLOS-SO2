@@ -1,0 +1,325 @@
+2026-08-15 17:06:04,123 [SERVER] INFO - Servidor escuchando en 0.0.0.0:5000
+2026-08-15 17:06:09,523 [SERVER] INFO - Servidor escuchando en 0.0.0.0:5000
+2026-08-15 17:06:10,517 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 55638). Clientes activos: 1
+2026-08-15 17:06:10,517 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:10,518 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:10,518 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 55648). Clientes activos: 0
+2026-08-15 17:06:10,520 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 55656). Clientes activos: 1
+2026-08-15 17:06:10,520 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:10,520 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 55666). Clientes activos: 1
+2026-08-15 17:06:10,521 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:10,522 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 55682). Clientes activos: 1
+2026-08-15 17:06:10,522 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:10,523 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 55688). Clientes activos: 1
+2026-08-15 17:06:10,523 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:10,524 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:10,525 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 55690). Clientes activos: 0
+2026-08-15 17:06:10,526 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 55694). Clientes activos: 1
+2026-08-15 17:06:10,526 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:10,527 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 55704). Clientes activos: 1
+2026-08-15 17:06:10,527 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:10,528 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 55712). Clientes activos: 1
+2026-08-15 17:06:10,528 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:39,804 [SERVER] INFO - Servidor escuchando en 0.0.0.0:5000
+2026-08-15 17:06:40,799 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,799 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39890). Clientes activos: 0
+2026-08-15 17:06:40,800 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39894). Clientes activos: 1
+2026-08-15 17:06:40,800 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,801 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,801 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39898). Clientes activos: 0
+2026-08-15 17:06:40,803 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39902). Clientes activos: 1
+2026-08-15 17:06:40,803 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,804 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39904). Clientes activos: 1
+2026-08-15 17:06:40,804 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,805 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,805 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39914). Clientes activos: 0
+2026-08-15 17:06:40,807 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39922). Clientes activos: 1
+2026-08-15 17:06:40,807 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,808 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39936). Clientes activos: 1
+2026-08-15 17:06:40,808 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,809 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39940). Clientes activos: 1
+2026-08-15 17:06:40,809 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,810 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39950). Clientes activos: 1
+2026-08-15 17:06:40,810 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,934 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39966). Clientes activos: 1
+2026-08-15 17:06:40,934 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,934 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,935 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39976). Clientes activos: 0
+2026-08-15 17:06:40,936 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,936 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39980). Clientes activos: 0
+2026-08-15 17:06:40,938 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,938 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 39990). Clientes activos: 0
+2026-08-15 17:06:40,939 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,939 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40000). Clientes activos: 0
+2026-08-15 17:06:40,940 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40016). Clientes activos: 1
+2026-08-15 17:06:40,941 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,941 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40032). Clientes activos: 1
+2026-08-15 17:06:40,941 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,942 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40038). Clientes activos: 1
+2026-08-15 17:06:40,943 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,944 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40048). Clientes activos: 1
+2026-08-15 17:06:40,944 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,945 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40064). Clientes activos: 1
+2026-08-15 17:06:40,945 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,946 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40076). Clientes activos: 1
+2026-08-15 17:06:40,946 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,947 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40080). Clientes activos: 1
+2026-08-15 17:06:40,947 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,949 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40088). Clientes activos: 1
+2026-08-15 17:06:40,949 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,950 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40096). Clientes activos: 1
+2026-08-15 17:06:40,950 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,951 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40100). Clientes activos: 1
+2026-08-15 17:06:40,951 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,952 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40114). Clientes activos: 1
+2026-08-15 17:06:40,952 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,953 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40126). Clientes activos: 1
+2026-08-15 17:06:40,954 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,955 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40130). Clientes activos: 1
+2026-08-15 17:06:40,955 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,956 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40136). Clientes activos: 1
+2026-08-15 17:06:40,956 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,957 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40146). Clientes activos: 1
+2026-08-15 17:06:40,957 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,958 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40152). Clientes activos: 1
+2026-08-15 17:06:40,959 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,960 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40156). Clientes activos: 1
+2026-08-15 17:06:40,960 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,961 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40166). Clientes activos: 1
+2026-08-15 17:06:40,961 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,962 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40182). Clientes activos: 1
+2026-08-15 17:06:40,963 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,964 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40192). Clientes activos: 1
+2026-08-15 17:06:40,964 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,965 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40206). Clientes activos: 1
+2026-08-15 17:06:40,965 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,966 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40220). Clientes activos: 1
+2026-08-15 17:06:40,966 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,967 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40226). Clientes activos: 1
+2026-08-15 17:06:40,968 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,969 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40242). Clientes activos: 1
+2026-08-15 17:06:40,969 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:06:40,970 [SERVER] INFO - Nueva conexi贸n desde ('127.0.0.1', 40258). Clientes activos: 1
+2026-08-15 17:06:40,970 [SERVER] INFO - Cliente desconectado: desconocido. Clientes activos: 0
+2026-08-15 17:14:35,836 [SERVER] INFO - Servidor escuchando en 0.0.0.0:5000
+2026-08-15 17:14:36,803 [SERVER] INFO - Conectado: Alice desde ('127.0.0.1', 47074)
+2026-08-15 17:14:36,903 [SERVER] INFO - Conectado: Bob desde ('127.0.0.1', 47082)
+2026-08-15 17:14:37,003 [SERVER] INFO - [Alice]: Hola a todos!
+2026-08-15 17:14:37,104 [SERVER] INFO - [Bob]: Hola Alice!
+2026-08-15 17:14:37,104 [SERVER] INFO - [Alice]: C贸mo est谩n?
+2026-08-15 17:14:37,504 [SERVER] WARNING - Desconexi贸n abrupta de Alice: [Errno 104] Connection reset by peer
+2026-08-15 17:14:37,505 [SERVER] INFO - Desconectado: Alice. Activos: 1
+2026-08-15 17:14:37,605 [SERVER] WARNING - Desconexi贸n abrupta de Bob: [Errno 104] Connection reset by peer
+2026-08-15 17:14:37,606 [SERVER] INFO - Desconectado: Bob. Activos: 0
+2026-08-15 17:27:29,086 [SERVER] INFO - Servidor escuchando en 0.0.0.0:5000
+2026-08-15 17:28:00,455 [SERVER] INFO - Conectado: PapitoMiRey desde ('127.0.0.1', 62701)
+2026-08-15 17:28:31,168 [SERVER] INFO - Conectado: JonTravolta desde ('127.0.0.1', 62766)
+2026-08-15 17:29:47,285 [SERVER] INFO - [PapitoMiRey]: Buenas tardes
+2026-08-15 17:29:54,069 [SERVER] INFO - [JonTravolta]: Como le va caballero?
+2026-08-15 17:30:07,924 [SERVER] INFO - Conectado: Yiglipuff desde ('127.0.0.1', 62147)
+2026-08-15 17:30:26,252 [SERVER] INFO - [Yiglipuff]: Que me disney plus mis Riddycs?
+2026-08-15 17:35:09,952 [SERVER] WARNING - Desconexi髇 abrupta de Yiglipuff: [WinError 10054] Se ha forzado la interrupci髇 de una conexi髇 existente por el host remoto
+2026-08-15 17:35:09,952 [SERVER] INFO - Desconectado: Yiglipuff. Activos: 2
+2026-08-15 17:35:10,630 [SERVER] WARNING - Desconexi髇 abrupta de JonTravolta: [WinError 10054] Se ha forzado la interrupci髇 de una conexi髇 existente por el host remoto
+2026-08-15 17:35:10,630 [SERVER] INFO - Desconectado: JonTravolta. Activos: 1
+2026-08-15 17:35:14,030 [SERVER] WARNING - Desconexi髇 abrupta de PapitoMiRey: [WinError 10054] Se ha forzado la interrupci髇 de una conexi髇 existente por el host remoto
+2026-08-15 17:35:14,031 [SERVER] INFO - Desconectado: PapitoMiRey. Activos: 0
+2026-08-15 17:36:30,411 [SERVER] INFO - Conectado: Carlos Mario desde ('127.0.0.1', 56170)
+2026-08-15 17:36:48,105 [SERVER] INFO - [Carlos Mario]: Good morning everyone
+2026-08-15 17:37:21,690 [SERVER] WARNING - Desconexi髇 abrupta de Carlos Mario: [WinError 10054] Se ha forzado la interrupci髇 de una conexi髇 existente por el host remoto
+2026-08-15 17:37:21,690 [SERVER] INFO - Desconectado: Carlos Mario. Activos: 0
+2026-08-15 17:38:26,627 [SERVER] INFO - Conectado: Slowpoke desde ('127.0.0.1', 59025)
+2026-08-15 17:39:17,925 [SERVER] WARNING - Desconexi髇 abrupta de Slowpoke: [WinError 10054] Se ha forzado la interrupci髇 de una conexi髇 existente por el host remoto
+2026-08-15 17:39:17,926 [SERVER] INFO - Desconectado: Slowpoke. Activos: 0
+2026-08-15 17:39:24,544 [SERVER] INFO - Conectado: cabronazi desde ('127.0.0.1', 59148)
+2026-08-15 17:39:54,611 [SERVER] WARNING - Desconexi髇 abrupta de cabronazi: [WinError 10054] Se ha forzado la interrupci髇 de una conexi髇 existente por el host remoto
+2026-08-15 17:39:54,612 [SERVER] INFO - Desconectado: cabronazi. Activos: 0
+2026-08-15 17:41:48,414 [SERVER] INFO - Servidor escuchando en 0.0.0.0:5000
+2026-08-15 17:41:55,305 [SERVER] INFO - Servidor escuchando en 0.0.0.0:5000
+2026-08-15 17:42:12,935 [SERVER] INFO - Servidor escuchando en 0.0.0.0:5000
+2026-08-15 17:42:13,929 [SERVER] INFO - Conectado: bot_2 desde ('127.0.0.1', 56040)
+2026-08-15 17:42:13,930 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:13,930 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:13,930 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:13,931 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:13,931 [SERVER] INFO - [bot_2]: mensaje_0_de_bot_2
+2026-08-15 17:42:13,980 [SERVER] INFO - [bot_2]: mensaje_1_de_bot_2
+2026-08-15 17:42:14,030 [SERVER] INFO - [bot_2]: mensaje_2_de_bot_2
+2026-08-15 17:42:14,080 [SERVER] INFO - [bot_2]: mensaje_3_de_bot_2
+2026-08-15 17:42:14,130 [SERVER] INFO - [bot_2]: mensaje_4_de_bot_2
+2026-08-15 17:42:14,181 [SERVER] INFO - [bot_2]: mensaje_5_de_bot_2
+2026-08-15 17:42:14,231 [SERVER] INFO - [bot_2]: mensaje_6_de_bot_2
+2026-08-15 17:42:14,281 [SERVER] INFO - [bot_2]: mensaje_7_de_bot_2
+2026-08-15 17:42:14,331 [SERVER] INFO - [bot_2]: mensaje_8_de_bot_2
+2026-08-15 17:42:14,382 [SERVER] INFO - [bot_2]: mensaje_9_de_bot_2
+2026-08-15 17:42:14,432 [SERVER] WARNING - Desconexi贸n abrupta de bot_2: [Errno 104] Connection reset by peer
+2026-08-15 17:42:14,434 [SERVER] INFO - Desconectado: bot_2. Activos: 0
+2026-08-15 17:42:14,966 [SERVER] INFO - Conectado: bot_0 desde ('127.0.0.1', 59224)
+2026-08-15 17:42:14,967 [SERVER] INFO - Conectado: bot_2 desde ('127.0.0.1', 59238)
+2026-08-15 17:42:14,967 [SERVER] INFO - Conectado: bot_1 desde ('127.0.0.1', 59222)
+2026-08-15 17:42:14,967 [SERVER] INFO - Conectado: bot_3 desde ('127.0.0.1', 59254)
+2026-08-15 17:42:14,967 [SERVER] INFO - Desconectado: desconocido. Activos: 4
+2026-08-15 17:42:14,968 [SERVER] INFO - Desconectado: desconocido. Activos: 4
+2026-08-15 17:42:14,969 [SERVER] INFO - Desconectado: desconocido. Activos: 4
+2026-08-15 17:42:14,969 [SERVER] INFO - Desconectado: desconocido. Activos: 4
+2026-08-15 17:42:14,969 [SERVER] INFO - Desconectado: desconocido. Activos: 4
+2026-08-15 17:42:14,970 [SERVER] INFO - Desconectado: desconocido. Activos: 4
+2026-08-15 17:42:14,970 [SERVER] INFO - [bot_2]: mensaje_0_de_bot_2
+2026-08-15 17:42:14,970 [SERVER] INFO - [bot_0]: mensaje_0_de_bot_0
+2026-08-15 17:42:14,970 [SERVER] INFO - [bot_1]: mensaje_0_de_bot_1
+2026-08-15 17:42:14,970 [SERVER] INFO - [bot_3]: mensaje_0_de_bot_3
+2026-08-15 17:42:15,017 [SERVER] INFO - [bot_2]: mensaje_1_de_bot_2
+2026-08-15 17:42:15,018 [SERVER] INFO - [bot_1]: mensaje_1_de_bot_1
+2026-08-15 17:42:15,018 [SERVER] INFO - [bot_3]: mensaje_1_de_bot_3
+2026-08-15 17:42:15,017 [SERVER] INFO - [bot_0]: mensaje_1_de_bot_0
+2026-08-15 17:42:15,067 [SERVER] INFO - [bot_2]: mensaje_2_de_bot_2
+2026-08-15 17:42:15,067 [SERVER] INFO - [bot_0]: mensaje_2_de_bot_0
+2026-08-15 17:42:15,068 [SERVER] INFO - [bot_3]: mensaje_2_de_bot_3
+2026-08-15 17:42:15,068 [SERVER] INFO - [bot_1]: mensaje_2_de_bot_1
+2026-08-15 17:42:15,118 [SERVER] INFO - [bot_0]: mensaje_3_de_bot_0
+2026-08-15 17:42:15,118 [SERVER] INFO - [bot_2]: mensaje_3_de_bot_2
+2026-08-15 17:42:15,118 [SERVER] INFO - [bot_3]: mensaje_3_de_bot_3
+2026-08-15 17:42:15,118 [SERVER] INFO - [bot_1]: mensaje_3_de_bot_1
+2026-08-15 17:42:15,168 [SERVER] INFO - [bot_0]: mensaje_4_de_bot_0
+2026-08-15 17:42:15,168 [SERVER] INFO - [bot_2]: mensaje_4_de_bot_2
+2026-08-15 17:42:15,168 [SERVER] INFO - [bot_3]: mensaje_4_de_bot_3
+2026-08-15 17:42:15,168 [SERVER] INFO - [bot_1]: mensaje_4_de_bot_1
+2026-08-15 17:42:15,218 [SERVER] INFO - [bot_2]: mensaje_5_de_bot_2
+2026-08-15 17:42:15,218 [SERVER] INFO - [bot_0]: mensaje_5_de_bot_0
+2026-08-15 17:42:15,218 [SERVER] INFO - [bot_3]: mensaje_5_de_bot_3
+2026-08-15 17:42:15,219 [SERVER] INFO - [bot_1]: mensaje_5_de_bot_1
+2026-08-15 17:42:15,268 [SERVER] INFO - [bot_0]: mensaje_6_de_bot_0
+2026-08-15 17:42:15,269 [SERVER] INFO - [bot_3]: mensaje_6_de_bot_3
+2026-08-15 17:42:15,269 [SERVER] INFO - [bot_1]: mensaje_6_de_bot_1
+2026-08-15 17:42:15,269 [SERVER] INFO - [bot_2]: mensaje_6_de_bot_2
+2026-08-15 17:42:15,319 [SERVER] INFO - [bot_3]: mensaje_7_de_bot_3
+2026-08-15 17:42:15,319 [SERVER] INFO - [bot_2]: mensaje_7_de_bot_2
+2026-08-15 17:42:15,319 [SERVER] INFO - [bot_0]: mensaje_7_de_bot_0
+2026-08-15 17:42:15,319 [SERVER] INFO - [bot_1]: mensaje_7_de_bot_1
+2026-08-15 17:42:15,369 [SERVER] INFO - [bot_0]: mensaje_8_de_bot_0
+2026-08-15 17:42:15,369 [SERVER] INFO - [bot_3]: mensaje_8_de_bot_3
+2026-08-15 17:42:15,369 [SERVER] INFO - [bot_2]: mensaje_8_de_bot_2
+2026-08-15 17:42:15,369 [SERVER] INFO - [bot_1]: mensaje_8_de_bot_1
+2026-08-15 17:42:15,419 [SERVER] INFO - [bot_2]: mensaje_9_de_bot_2
+2026-08-15 17:42:15,419 [SERVER] INFO - [bot_0]: mensaje_9_de_bot_0
+2026-08-15 17:42:15,419 [SERVER] INFO - [bot_3]: mensaje_9_de_bot_3
+2026-08-15 17:42:15,419 [SERVER] INFO - [bot_1]: mensaje_9_de_bot_1
+2026-08-15 17:42:15,469 [SERVER] WARNING - Desconexi贸n abrupta de bot_2: [Errno 104] Connection reset by peer
+2026-08-15 17:42:15,469 [SERVER] WARNING - Desconexi贸n abrupta de bot_0: [Errno 104] Connection reset by peer
+2026-08-15 17:42:15,474 [SERVER] INFO - Desconectado: bot_0. Activos: 2
+2026-08-15 17:42:15,469 [SERVER] WARNING - Desconexi贸n abrupta de bot_1: [Errno 104] Connection reset by peer
+2026-08-15 17:42:15,474 [SERVER] INFO - Desconectado: bot_2. Activos: 3
+2026-08-15 17:42:15,469 [SERVER] WARNING - Desconexi贸n abrupta de bot_3: [Errno 104] Connection reset by peer
+2026-08-15 17:42:15,475 [SERVER] WARNING - Error al enviar a bot_1: [Errno 32] Broken pipe
+2026-08-15 17:42:15,476 [SERVER] INFO - Desconectado: bot_1. Activos: 1
+2026-08-15 17:42:15,477 [SERVER] WARNING - Error al enviar a bot_3: [Errno 32] Broken pipe
+2026-08-15 17:42:15,477 [SERVER] INFO - Desconectado: bot_3. Activos: 0
+2026-08-15 17:42:15,478 [SERVER] WARNING - Error al enviar a bot_3: [Errno 9] Bad file descriptor
+2026-08-15 17:42:16,005 [SERVER] INFO - Desconectado: desconocido. Activos: 0
+2026-08-15 17:42:16,007 [SERVER] INFO - Conectado: bot_6 desde ('127.0.0.1', 59372)
+2026-08-15 17:42:16,006 [SERVER] INFO - Desconectado: desconocido. Activos: 0
+2026-08-15 17:42:16,009 [SERVER] INFO - Desconectado: desconocido. Activos: 2
+2026-08-15 17:42:16,006 [SERVER] INFO - Desconectado: desconocido. Activos: 0
+2026-08-15 17:42:16,006 [SERVER] INFO - Desconectado: desconocido. Activos: 0
+2026-08-15 17:42:16,006 [SERVER] INFO - Desconectado: desconocido. Activos: 0
+2026-08-15 17:42:16,007 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:16,007 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:16,007 [SERVER] INFO - Conectado: bot_9 desde ('127.0.0.1', 59392)
+2026-08-15 17:42:16,008 [SERVER] INFO - Desconectado: desconocido. Activos: 2
+2026-08-15 17:42:16,008 [SERVER] INFO - [bot_6]: mensaje_0_de_bot_6
+2026-08-15 17:42:16,009 [SERVER] INFO - Desconectado: desconocido. Activos: 2
+2026-08-15 17:42:16,009 [SERVER] INFO - Desconectado: desconocido. Activos: 2
+2026-08-15 17:42:16,006 [SERVER] INFO - Desconectado: desconocido. Activos: 0
+2026-08-15 17:42:16,009 [SERVER] INFO - Desconectado: desconocido. Activos: 2
+2026-08-15 17:42:16,010 [SERVER] INFO - Desconectado: desconocido. Activos: 2
+2026-08-15 17:42:16,010 [SERVER] INFO - Desconectado: desconocido. Activos: 2
+2026-08-15 17:42:16,010 [SERVER] INFO - Desconectado: desconocido. Activos: 2
+2026-08-15 17:42:16,010 [SERVER] INFO - Desconectado: desconocido. Activos: 2
+2026-08-15 17:42:16,011 [SERVER] INFO - Desconectado: desconocido. Activos: 2
+2026-08-15 17:42:16,014 [SERVER] INFO - [bot_9]: mensaje_0_de_bot_9
+2026-08-15 17:42:16,057 [SERVER] INFO - [bot_6]: mensaje_1_de_bot_6
+2026-08-15 17:42:16,058 [SERVER] INFO - [bot_9]: mensaje_1_de_bot_9
+2026-08-15 17:42:16,107 [SERVER] INFO - [bot_6]: mensaje_2_de_bot_6
+2026-08-15 17:42:16,108 [SERVER] INFO - [bot_9]: mensaje_2_de_bot_9
+2026-08-15 17:42:16,157 [SERVER] INFO - [bot_6]: mensaje_3_de_bot_6
+2026-08-15 17:42:16,158 [SERVER] INFO - [bot_9]: mensaje_3_de_bot_9
+2026-08-15 17:42:16,207 [SERVER] INFO - [bot_6]: mensaje_4_de_bot_6
+2026-08-15 17:42:16,208 [SERVER] INFO - [bot_9]: mensaje_4_de_bot_9
+2026-08-15 17:42:16,258 [SERVER] INFO - [bot_6]: mensaje_5_de_bot_6
+2026-08-15 17:42:16,258 [SERVER] INFO - [bot_9]: mensaje_5_de_bot_9
+2026-08-15 17:42:16,308 [SERVER] INFO - [bot_6]: mensaje_6_de_bot_6
+2026-08-15 17:42:16,308 [SERVER] INFO - [bot_9]: mensaje_6_de_bot_9
+2026-08-15 17:42:16,358 [SERVER] INFO - [bot_6]: mensaje_7_de_bot_6
+2026-08-15 17:42:16,358 [SERVER] INFO - [bot_9]: mensaje_7_de_bot_9
+2026-08-15 17:42:16,408 [SERVER] INFO - [bot_6]: mensaje_8_de_bot_6
+2026-08-15 17:42:16,409 [SERVER] INFO - [bot_9]: mensaje_8_de_bot_9
+2026-08-15 17:42:16,459 [SERVER] INFO - [bot_6]: mensaje_9_de_bot_6
+2026-08-15 17:42:16,459 [SERVER] INFO - [bot_9]: mensaje_9_de_bot_9
+2026-08-15 17:42:16,509 [SERVER] WARNING - Desconexi贸n abrupta de bot_6: [Errno 104] Connection reset by peer
+2026-08-15 17:42:16,511 [SERVER] INFO - Desconectado: bot_6. Activos: 1
+2026-08-15 17:42:16,512 [SERVER] WARNING - Error al enviar a bot_9: [Errno 32] Broken pipe
+2026-08-15 17:42:16,509 [SERVER] WARNING - Desconexi贸n abrupta de bot_9: [Errno 104] Connection reset by peer
+2026-08-15 17:42:16,513 [SERVER] WARNING - Error al enviar a bot_9: [Errno 32] Broken pipe
+2026-08-15 17:42:16,514 [SERVER] INFO - Desconectado: bot_9. Activos: 0
+2026-08-15 17:42:17,043 [SERVER] INFO - Desconectado: desconocido. Activos: 0
+2026-08-15 17:42:17,044 [SERVER] INFO - Conectado: bot_0 desde ('127.0.0.1', 59504)
+2026-08-15 17:42:17,044 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,046 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,045 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,045 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,045 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,050 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,046 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,044 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,046 [SERVER] INFO - [bot_0]: mensaje_0_de_bot_0
+2026-08-15 17:42:17,047 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,047 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,047 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,047 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,048 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,048 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,048 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,049 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,049 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,049 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,050 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,049 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,045 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,050 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,051 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,051 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,051 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,051 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,052 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,052 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,052 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,053 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,053 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,053 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,053 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,054 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,054 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,054 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,054 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,055 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,055 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,055 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,056 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,056 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,056 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,056 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,057 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,057 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,057 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,057 [SERVER] INFO - Desconectado: desconocido. Activos: 1
+2026-08-15 17:42:17,094 [SERVER] INFO - [bot_0]: mensaje_1_de_bot_0
+2026-08-15 17:42:17,144 [SERVER] INFO - [bot_0]: mensaje_2_de_bot_0
+2026-08-15 17:42:17,194 [SERVER] INFO - [bot_0]: mensaje_3_de_bot_0
+2026-08-15 17:42:17,245 [SERVER] INFO - [bot_0]: mensaje_4_de_bot_0
+2026-08-15 17:42:17,295 [SERVER] INFO - [bot_0]: mensaje_5_de_bot_0
+2026-08-15 17:42:17,345 [SERVER] INFO - [bot_0]: mensaje_6_de_bot_0
+2026-08-15 17:42:17,395 [SERVER] INFO - [bot_0]: mensaje_7_de_bot_0
+2026-08-15 17:42:17,446 [SERVER] INFO - [bot_0]: mensaje_8_de_bot_0
+2026-08-15 17:42:17,496 [SERVER] INFO - [bot_0]: mensaje_9_de_bot_0
+2026-08-15 17:42:17,546 [SERVER] WARNING - Desconexi贸n abrupta de bot_0: [Errno 104] Connection reset by peer
+2026-08-15 17:42:17,547 [SERVER] INFO - Desconectado: bot_0. Activos: 0
