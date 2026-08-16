@@ -1,0 +1,5 @@
+# Chat Distribuido — Dependencias
+# La mayoría son módulos nativos de Python 3.11+
+# Solo se requiere instalar psutil para el script de métricas
+
+psutil>=5.9.0
