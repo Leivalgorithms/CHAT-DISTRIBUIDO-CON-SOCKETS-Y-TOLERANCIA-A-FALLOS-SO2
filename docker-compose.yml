@@ -7,26 +7,3 @@ services:
     ports:
       - "5000:5000"
     command: python server.py
-
-  # Clientes de prueba (simulados para la demo)
-  cliente_1:
-    build: .
-    container_name: chat_cliente_1
-    depends_on:
-      - servidor
-    environment:
-      - CHAT_HOST=servidor
-      - CHAT_PORT=5000
-    command: python metrics.py --clientes 5 --mensajes 3
-    restart: "no"
-
-  cliente_2:
-    build: .
-    container_name: chat_cliente_2
-    depends_on:
-      - servidor
-    environment:
-      - CHAT_HOST=servidor
-      - CHAT_PORT=5000
-    command: python metrics.py --clientes 5 --mensajes 3
-    restart: "no"
