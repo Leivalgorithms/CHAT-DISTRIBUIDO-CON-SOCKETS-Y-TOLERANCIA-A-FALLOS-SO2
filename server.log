@@ -323,3 +323,7 @@
 2026-08-15 17:42:17,496 [SERVER] INFO - [bot_0]: mensaje_9_de_bot_0
 2026-08-15 17:42:17,546 [SERVER] WARNING - DesconexiÃ³n abrupta de bot_0: [Errno 104] Connection reset by peer
 2026-08-15 17:42:17,547 [SERVER] INFO - Desconectado: bot_0. Activos: 0
+2026-08-17 16:50:58,178 [SERVER] INFO - Servidor escuchando en 0.0.0.0:5000
+2026-08-17 16:51:17,631 [SERVER] INFO - Conectado: Josue Leiva desde ('127.0.0.1', 59315)
+2026-08-17 16:51:24,619 [SERVER] WARNING - Desconexión abrupta de Josue Leiva: [WinError 10054] Se ha forzado la interrupción de una conexión existente por el host remoto
+2026-08-17 16:51:24,620 [SERVER] INFO - Desconectado: Josue Leiva. Activos: 0

@@ -163,3 +163,66 @@ Este formato permite agregar campos adicionales en el futuro sin romper la compa
 | Complejidad en tolerancia a fallos | Media | Implementar primero funcionalidad básica y agregar tolerancia como incremento |
 | Configuración de Docker en Windows | Baja | Usar WSL2 o desarrollar directamente en Linux |
 | Atraso en cronograma | Baja | Seguir el plan incremental; las características opcionales son prescindibles |
+
+---
+
+## 12. Implementación
+
+### 12.1 Arquitectura implementada
+
+El servidor central (`server.py`) gestiona todas las conexiones mediante un diccionario compartido `{socket: nombre}` protegido por un `threading.Lock`. Cada cliente conectado recibe un hilo dedicado que lee mensajes en un loop bloqueante. El módulo `protocol.py` centraliza la serialización en formato JSON con campo `tipo` (`mensaje`, `privado`, `sistema`, `historial`, `usuarios`, `escribiendo`).
+
+### 12.2 Funcionalidades desarrolladas
+
+- Servidor TCP multihilo con soporte para conexiones simultáneas ilimitadas.
+- Broadcast de mensajes a todos los clientes conectados.
+- Historial de los últimos 50 mensajes enviado automáticamente al conectarse (`collections.deque(maxlen=50)`).
+- Mensajes privados mediante el comando `/privado @usuario mensaje`.
+- Indicador en tiempo real de "está escribiendo..." con throttle de 2 segundos.
+- Lista de usuarios en línea actualizada automáticamente.
+- Detección y rechazo de nombres de usuario duplicados.
+- Interfaz gráfica con tkinter de tema oscuro y colores por usuario.
+- Contenerización completa con Docker y Docker Compose.
+
+### 12.3 Estructura del proyecto
+
+```
+chat/
+├── server.py          # Servidor TCP multihilo
+├── client_gui.py      # Cliente con interfaz gráfica tkinter
+├── protocol.py        # Serialización de mensajes JSON
+├── metrics.py         # Script de pruebas de carga
+├── Dockerfile
+├── docker-compose.yml
+├── requirements.txt
+└── LICENSE
+```
+
+---
+
+## 13. Resultados Experimentales
+
+Pruebas ejecutadas en localhost con clientes simulados enviando 10 mensajes cada uno con un intervalo de 50 ms entre mensajes:
+
+| Clientes | Mensajes enviados | Throughput (msg/s) | Latencia prom. (ms) | Desv. estándar (ms) |
+|---|---|---|---|---|
+| 5 | 50 | 91.3 | 50.19 | 0.07 |
+| 10 | 100 | 186.5 | 50.20 | 0.10 |
+| 20 | 200 | 360.5 | 50.14 | 0.05 |
+| 50 | 500 | 894.5 | 50.14 | 0.07 |
+
+La latencia se mantuvo estable en ~50 ms independientemente de la carga. El throughput escala de forma aproximadamente lineal con el número de clientes. El servidor no presentó ninguna caída durante las pruebas.
+
+### 13.1 Tolerancia a fallos verificada
+
+Se verificó el comportamiento ante desconexiones abruptas: al cerrarse un socket de forma no ordenada, el servidor captura la excepción (`ConnectionResetError`), remueve al cliente del diccionario con el lock adquirido y notifica al resto. En todos los casos de prueba el servidor continuó operando sin interrupciones.
+
+---
+
+## 14. Conclusiones
+
+- El sistema de chat distribuido implementado cumple con todos los objetivos específicos planteados en la semana 11.
+- El modelo de concurrencia basado en hilos resultó adecuado para la carga esperada, con latencia estable de ~50 ms bajo 50 clientes simultáneos.
+- La tolerancia a fallos se verificó satisfactoriamente: ninguna desconexión abrupta interrumpió el servicio para los demás usuarios.
+- El throughput escala linealmente con el número de clientes (91 msg/s con 5 clientes → 894 msg/s con 50 clientes), confirmando que el servidor no es el cuello de botella bajo la carga probada.
+- Como trabajo futuro se identifica: implementación de TLS para cifrado en tránsito, replicación entre servidores y algoritmo de elección de líder para mayor disponibilidad.
